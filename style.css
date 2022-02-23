@@ -1,0 +1,126 @@
+.n1
+{
+    height: 60px;
+    width: 23%;
+    margin: 1.5px;
+    border: 1.5px solid black;
+    float: right;
+    background-color:firebrick;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 45px;
+
+
+}
+
+
+.n2
+{
+    height: 60px;
+    width: 59%;
+    margin: 1.5px;
+    border: 1.5px solid black;
+    float: right;
+    background-color:firebrick;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 45px;
+
+
+}
+
+.n3
+{
+    height: 60px;
+    width: 15%;
+    margin: 1.5px;
+    border: 1.5px solid black;
+    float: right;
+    background-color:firebrick;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 45px;
+
+
+}
+
+
+.n4
+{
+    height: 70px;
+    width: 74%;
+    margin: 1.5px;
+    border: 1.5px solid black;
+    float: right;
+    background-color: firebrick;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.n5
+{
+    height: 70px;
+    width: 23.6%;
+    margin: 1.5px;
+    border: 1.5px solid black;
+    float: right;
+    background-color:firebrick;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.n6
+{
+    width: 98%;
+    height: 300px;
+    padding-top: 100px;
+    margin: 1.5px;
+    border: 1.5px solid black;
+    float: right;
+    background-color:firebrick;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 150px;
+
+
+}
+
+
+.n7
+{
+    width: 12%;
+    height: 100px;
+    padding-top: 70px;
+    margin: 1.5px;
+    border: 1.5px solid black;
+    float: right;
+    background-color:firebrick;
+    border-radius: 30%;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+
+.n8
+{
+    width: 12%;
+    height: 100px;
+    padding-top: 70px;
+    margin: 1.5px;
+    border: 1.5px solid black;
+    float: right;
+    background-color:firebrick;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 50px;
+
+
+}
